@@ -2,13 +2,21 @@
 
 An interactive dashboard that aims to give valuable information to responders. The insights provided help in the preparation of rescue and relief efforts.
 
-The prototype has been developed using an amalgamation of different datasets that describe disaster impact. It includes 3 KPIs (Key Performance Indicators) that showcase the impact of disaster(s) on agriculture, shelter, and cattle respectively. 
+The prototype has been developed using an amalgamation of different datasets that describe disaster impact. It includes 3 KPIs (Key Performance Indicators) that showcase the impact of disaster(s) on agriculture, shelter, and cattle respectively.
+
+![alt text](Visualisation/AffectedAgriculturalLand.png) 
+![alt text](Visualisation/HousesDamaged.png) 
+![alt text](Visualisation/CattleLost.png)
 
 The bar chart displays the number of villages affected by each different type of disaster. Landslide and Cyclone are the calamities that are more widespread than others.
 
+![alt text](Visualisation/VillagesAffectedByCalamities.png)
+
+
 The pie chart shows the share of fishermen affected by Cyclones Yaas and Tauktae. While the number of states affected by Yaas is lesser, the share of fishermen affected is relatively larger than those affected by Tauktae.
 
-![alt text]()
+![alt text](Visualisation/FishermenAffectedByCyclones.png)
+
 
 ## Dashboard and Dataset Links
 
