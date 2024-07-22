@@ -72,6 +72,8 @@ The project is organized into the following folders:
 - **UI**: 
   - [UI](UI) (Prototype design images for the mobile app)
 
+![alt text](UI/example03.png)
+
 ### Getting Started
 
 1. Clone the repository.
