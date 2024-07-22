@@ -63,20 +63,20 @@ The project is organized into the following folders:
 
 #### Accessing the Files
 
-- **data**: 
-  - `post_disaster_impact_dashboard.qvf` (Qlik Insights dashboard)
-  - `dashboard_dataset.csv` (Dataset used for the dashboard)
-- **model**: 
-  - `cnn_model.ipynb` (Current model development notebook)
-  - `data_exploration.ipynb` (Data exploration notebook)
+- **Data**: 
+  - [Dashboard](Data/Disaster Impact Dashboard.pdf) (Qlik Insights dashboard)
+  - [Datasets](Data/Visualisation_Datasets) (Dataset used for the dashboard)
+- **Model**: 
+  - [Baseline Model](Model/Baseline_model.ipynb) (Current model development notebook)
+  - [Understanding Dataset](Model/Understanding_dataset.ipynb) (Data exploration notebook)
 - **UI**: 
-  - `ui_prototype_designs.png` (Prototype design images for the mobile app)
+  - [UI](UI) (Prototype design images for the mobile app)
 
 ### Getting Started
 
 1. Clone the repository.
-2. Navigate to the `model` folder and open `cnn_model.ipynb` to start working on the model.
-3. Use the `data_exploration.ipynb` notebook to understand the dataset and preprocessing steps.
+2. Navigate to the `model` folder and open `Baseline_model.ipynb` to start working on the model.
+3. Use the `Understanding_dataset.ipynb` notebook to understand the dataset and preprocessing steps.
 4. Refer to the `UI` folder for design ideas and integrate them into the final application.
 
 ## Future of the Solution
