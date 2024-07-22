@@ -37,13 +37,16 @@ Our disaster recovery solution aims to assist users during emergencies by provid
 
 ## Screens
 ### Home Page
+![alt text](Home Page.png)
 
 ### Sign-Up Page
+![alt text](Sign up page.png)
 
 ### Verification Page
+![alt text](Verification Page.png)
 
 ### Splash Screen
-
+![alt text](Splash Screen.png)
 
 ## Contributing
 We welcome contributions! If you'd like to improve the UI, fix bugs, or add features, please follow our contribution guidelines.
