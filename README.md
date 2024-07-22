@@ -3,6 +3,7 @@
 
 ## AI-driven Disaster Response and Recovery
 
+![alt text](logo2.png)
 
 ### Problem Statement
 
@@ -72,7 +73,7 @@ The project is organized into the following folders:
 - **UI**: 
   - [UI](UI) (Prototype design images for the mobile app)
 
-![alt text](UI/example03.png)
+![alt text](UI/CoverPage.png)
 
 ### Getting Started
 
